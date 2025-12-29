@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 👔 Gestión de Contactos Empresariales
 
 <div align="center">
@@ -144,3 +145,7 @@ The backend exposes a comprehensive REST API:
   <p>Developed with ❤️ using Spring Boot</p>
   <sub>© 2025 | Contact Management Project | All Rights Reserved</sub>
 </div>
+=======
+# JAVA-SPRING
+Estoy aprendiendo a usar Spring Boot de manera mas profesional
+>>>>>>> d4bf03ab79d0bcc4923e7966d738be75e4d89301
